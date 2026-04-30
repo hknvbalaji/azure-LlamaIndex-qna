@@ -1,8 +1,5 @@
-llama-index>=0.10.0,<0.14.0
-llama-index-llms-azure-openai==0.4.0
-llama-index-embeddings-azure-openai==0.4.0
-openai>=1.0.0
+llama-index>=0.14.0
+llama-index-llms-azure-openai>=0.5.3
+llama-index-embeddings-azure-openai>=0.5.2
+openai>=1.30.0
 python-dotenv>=1.0.0
-langchain==0.3.27
-langchain-openai>=0.3.32
-azure-identity>=1.12.0
